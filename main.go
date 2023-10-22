@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+// import (
+// 	"fmt";
+// 	"os";
+// 	"bufio"
+// )
 
 func main ()  {
-	fmt.Println("it works");
+	startRepl()
 }
